@@ -1,3 +1,6 @@
+# Projeto Final Visão Computacional
+# Alunos: Fredson Menezes Sumi Barreto, Mauricio dos Santos de Jesus
+
 import cv2 as cv
 import numpy as np
 from PIL import Image
